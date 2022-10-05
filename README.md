@@ -1,4 +1,4 @@
-# Analysis-of-Ephy-data
+# Analysis of Electrophysiology Data
 
 **Contact**
 - Arthur Leblois:  arthur.leblois@u-bordeaux.fr
