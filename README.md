@@ -23,5 +23,7 @@ cover the strict minimum necessary for getting started with numerical computing.
 [Learn Python](https://www.learnpython.org/)
 <br/>
 
-### First class: Download this file: https://filesender.renater.fr/?s=download&token=13b3e1b3-e6e7-44ab-b5b7-649e67883cf0.
+### First class: computing  latency
+Download this file: https://filesender.renater.fr/?s=download&token=13b3e1b3-e6e7-44ab-b5b7-649e67883cf0.
+We will be using NumPy, Matplotlib and Pandas.
 
