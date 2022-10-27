@@ -4,6 +4,8 @@
 - Arthur Leblois:  arthur.leblois@u-bordeaux.fr
 - Fjola Hyseni: fjola.hyseni@u-bordeaux.fr
 
+https://filesender.renater.fr/?s=download&token=db11d9f1-3d09-47ae-8697-2cabaeb61313
+
 ### [Installation](lessons/programming/01-installation.md) (If you wish to have Python in your computer)
 
 This lesson aims at providing the student with a clean development environment,
