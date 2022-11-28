@@ -4,7 +4,6 @@
 - Arthur Leblois:  arthur.leblois@u-bordeaux.fr
 - Fjola Hyseni: fjola.hyseni@u-bordeaux.fr
 
-https://filesender.renater.fr/?s=download&token=db11d9f1-3d09-47ae-8697-2cabaeb61313
 
 ### [Installation](lessons/programming/01-installation.md) (If you wish to have Python in your computer)
 
@@ -26,6 +25,5 @@ cover the strict minimum necessary for getting started with numerical computing.
 <br/>
 
 ### First class: computing  latency
-Download this file: https://filesender.renater.fr/?s=download&token=13b3e1b3-e6e7-44ab-b5b7-649e67883cf0.
 We will be using NumPy, Matplotlib and Pandas.
 
