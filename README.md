@@ -27,3 +27,4 @@ cover the strict minimum necessary for getting started with numerical computing.
 ### First class: computing  latency
 We will be using NumPy, Matplotlib and Pandas.
 
+### Second Lecture: EPSP
