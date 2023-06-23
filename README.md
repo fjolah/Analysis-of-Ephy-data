@@ -7,7 +7,7 @@
 
 ## 1st and 2nd Year Python Course for Medical Students
 
-This lesson aims at providing the student with a clean development environment,
+This lecture set aims to provide the student with a clean development environment,
 including Python installation and essential packages. We'll also introduce the 
 Python & IPython shells and the **Jupyter notebook**.
 In case you cannot install Python/Anaconda in your computer, you can use [Google Colab](https://colab.research.google.com/notebooks/basic_features_overview.ipynb). 
