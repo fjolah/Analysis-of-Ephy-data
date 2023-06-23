@@ -25,8 +25,8 @@ cover the strict minimum necessary for getting started with numerical computing.
 <br/>
 
 ## First year:
-1st Lecture: Intro into Python \\
-2nd Lecture: Working with Data and Using Pandas \\
+1st Lecture: Intro into Python <br/>
+2nd Lecture: Working with Data and Using Pandas <br/>
 Extra Lecture: Numpy recap + Data Vizualization with Matplotlib
 
 ## Second year:
