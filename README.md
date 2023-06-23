@@ -5,13 +5,12 @@
 - Fjola Hyseni: fjola.hyseni@u-bordeaux.fr
 
 
-### [Installation](lessons/programming/01-installation.md) (If you wish to have Python in your computer)
+##1st and 2nd Year Python Course for Medical Students
 
 This lesson aims at providing the student with a clean development environment,
-including Python installation and essential packages, a decent text editor, and
-a shell. We'll also introduce the Python & IPython shells, the **Jupyter notebook**
-and explains how to run a python script from the command line.
-In case you cannot install Python/Anaconda in your computer, you can use [Google Colab](https://colab.research.google.com/notebooks/basic_features_overview.ipynb). We've added a short tutorial on how to use Colab in [here](lessons/programming/colab_steps.md).
+including Python installation and essential packages. We'll also introduce the 
+Python & IPython shells and the **Jupyter notebook**.
+In case you cannot install Python/Anaconda in your computer, you can use [Google Colab](https://colab.research.google.com/notebooks/basic_features_overview.ipynb). 
 
 ### [Introduction](lessons/programming/02-introduction.md)
 
@@ -20,11 +19,14 @@ has *efficient high-level data structures and a simple but effective approach
 to object-oriented programming* (Python website). However, we'll only
 cover the strict minimum necessary for getting started with numerical computing.
 
-**See also**: [Official Python tutorial](https://docs.python.org/tutorial), [Dive into Python](https://diveintopython3.problemsolving.io/),
+**See also**: [Official Python tutorial](https://docs.python.org/tutorial), 
+[Dive into Python](https://diveintopython3.problemsolving.io/),
 [Learn Python](https://www.learnpython.org/)
 <br/>
 
-### First class: computing  latency
-We will be using NumPy, Matplotlib and Pandas.
+### First year, 1st Lecture: Intro into Python
+### First year, 2nd Lecture: Working with Data and Using Pandas
+### First year, Extra Lecture: Numpy recap + Data Vizualization with Matplotlib
 
-### Second Lecture: EPSP
+### Second year, 1st Lecture: Computing  latency
+### Second year, 2nd Lecture: EPSP
