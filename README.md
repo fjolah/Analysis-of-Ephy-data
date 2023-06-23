@@ -27,8 +27,8 @@ cover the strict minimum necessary for getting started with numerical computing.
 ## First year: <br/>
 1st Lecture: Intro into Python <br/>
 2nd Lecture: Working with Data and Using Pandas <br/>
-Extra Lecture: Numpy recap + Data Vizualization with Matplotlib
+Extra Lecture: Numpy recap + Data Vizualization with Matplotlib (file: ESS_1TD.ipynb)
 
 ## Second year: <br/>
-1st Lecture: Computing  latency <br/>
-2nd Lecture: EPSP
+1st Lecture: Computing  latency (file: 06/10_DataAnalysisTDMedecineScience.ipynb) <br/>
+2nd Lecture: EPSP (file: AnalysisMinisESS13102021.ipynb)
