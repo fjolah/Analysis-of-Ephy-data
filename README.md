@@ -24,11 +24,11 @@ cover the strict minimum necessary for getting started with numerical computing.
 [Learn Python](https://www.learnpython.org/)
 <br/>
 
-## First year:
+## First year: <br/>
 1st Lecture: Intro into Python <br/>
 2nd Lecture: Working with Data and Using Pandas <br/>
 Extra Lecture: Numpy recap + Data Vizualization with Matplotlib
 
-## Second year:
-1st Lecture: Computing  latency \\
+## Second year: <br/>
+1st Lecture: Computing  latency <br/>
 2nd Lecture: EPSP
