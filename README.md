@@ -5,7 +5,7 @@
 - Fjola Hyseni: fjola.hyseni@u-bordeaux.fr
 
 
-##1st and 2nd Year Python Course for Medical Students
+## 1st and 2nd Year Python Course for Medical Students
 
 This lesson aims at providing the student with a clean development environment,
 including Python installation and essential packages. We'll also introduce the 
